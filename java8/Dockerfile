@@ -1,6 +1,6 @@
 FROM centos:7
 
-LABEL maintainer="Arber Kuci, arber.kuci@gmail.com"
+LABEL maintainer="Arber Kuci, arber.kuci2@gmail.com"
 
 RUN yum update && \
     yum install -y unzip && \
