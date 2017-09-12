@@ -1,6 +1,6 @@
 # Different docker images
 ## Payara application server docker image
-### The docker image for Payara downloads payara application server version 4.1.1.161. 
+The docker image for Payara downloads payara application server version 4.1.1.161. 
 It also downloads **mysql connector** and puts it in proper directory of payara and so making it much easier to setup a database connection.
 
 ## Java 8 docker image
