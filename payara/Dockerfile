@@ -1,6 +1,6 @@
 FROM harperkej/java8
 
-LABEL maintainer="arber.kuci2@gmail.com"
+LABEL maintainer="Arber Kuci, arber.kuci2@gmail.com"
 
 RUN chmod a+x /opt
 
